@@ -1,0 +1,21 @@
+{
+  "name": "node-argv-demo",
+  "version": "1.0.0",
+  "description": "Demo project to see the command line arguments in a nodejs project.",
+  "main": "",
+  "scripts": {
+    "official": "cd official-argv && npm start one two=three four",
+    "commander": "cd commander && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fahidnasir/node-argv-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fahidnasir/node-argv-demo/issues"
+  },
+  "homepage": "https://github.com/fahidnasir/node-argv-demo#readme"
+}
